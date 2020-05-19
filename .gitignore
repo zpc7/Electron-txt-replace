@@ -3,3 +3,5 @@ node_modules
 dll
 yarn.lock
 *.d.ts
+dist/
+release/
